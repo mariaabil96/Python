@@ -1,0 +1,6 @@
+Python
+Strings 
+Strings in python are surrounded by either single quotation marks, or double quotation marks.
+assign a multiline string to a variable by using three quotes Or three single quotes
+strings in Python are arrays of unicode characters.Square brackets can be used to access elements of the string.
+
